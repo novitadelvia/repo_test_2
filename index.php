@@ -10,5 +10,9 @@
 	<h1>Hello World!</h1>
 	<p>lorem</p>
 	<h2>oke</h2>
+	<ul>
+		<li>satu</li>
+		<li>dua</li>
+	</ul>
 </body>
 </html>
